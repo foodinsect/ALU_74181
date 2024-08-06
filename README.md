@@ -16,10 +16,6 @@ This version of the ALU 74181 design is based on the datasheet specifications. T
 - **Datasheet-Based Design**: This design strictly follows the functional description provided in the ALU 74181 datasheet.
 - **Input-Output Mapping**: The mapping of inputs to outputs is implemented as specified in the datasheet.
 
-### Files
-
-- `alu_74181.v`: Verilog implementation of the ALU 74181 based on the datasheet.
-- `tb_alu_74181.v`: Testbench for simulating and verifying the functionality of the ALU 74181.
 
 ## 02_ALU_74181_comb
 
@@ -29,11 +25,6 @@ This version of the ALU 74181 design is based on the combinational logic circuit
 
 - **Combinational Logic Design**: This design uses the combinational logic circuit diagram to replicate the ALU 74181 functionality.
 - **Logic Gate Implementation**: The implementation details follow the circuit diagram with logic gates to achieve the desired operations.
-
-### Files
-
-- `alu_74181_comb.v`: Verilog implementation of the ALU 74181 based on the combinational logic circuit diagram.
-- `tb_alu_74181_comb.v`: Testbench for simulating and verifying the functionality of the ALU 74181 combinational logic version.
 
 
 ---
